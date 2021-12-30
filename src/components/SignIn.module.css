@@ -1,0 +1,218 @@
+.container{
+    background-color: #FFCC81;
+    width:537px;
+    height:720px;
+    position: absolute;
+    top: 0;
+    left:0;
+    border-radius: 8px;
+}
+
+.discover_text{
+    position: absolute;
+    width: 404px;
+    height: 120px;
+    left: 50px;
+    top: 120px;
+
+    font-family: Roboto Slab !important;
+    font-style: normal;
+    font-weight: bold !important;
+    font-size: 32px !important;
+    line-height: 40px !important;
+    letter-spacing: 0.03em !important;
+
+    color: #000000;
+}
+
+.logo_text{
+    position: absolute;
+    width: 49px;
+    height: 32px;
+    left: 90px;
+    top: 45px;
+    
+    font-family: Roboto Slab !important;
+    font-style: normal !important;
+    font-weight: 500 !important;
+    font-size: 24px !important;
+    line-height: 32px !important;
+    
+    
+    color: #000000;
+}
+
+.login_text{
+    position: absolute;
+    width: 255px;
+    height: 32px;
+    left: 730px;
+    top: 158px;
+    font-family: Roboto Slab !important;
+    font-style: normal !important;
+    font-weight: bold !important;
+    font-size: 24px !important;
+    line-height: 32px !important;
+
+    color: #000000;
+}
+
+.first_name_text{
+    position: absolute;
+    width: 173px;
+    height: 18px;
+    left: 723px;
+    top: 230px;
+
+    font-family: Roboto Slab !important;
+    font-style: normal !important;
+    font-weight: bold !important;
+    font-size: 14px !important;
+    line-height: 18px !important;
+    letter-spacing: 0.03em !important;
+
+    color: #000000;
+}
+
+.last_name_text{
+    position: absolute;
+    width: 173px;
+    height: 18px;
+    left: 970px;
+    top: 230px;
+
+    font-family: Roboto Slab !important;
+    font-style: normal !important;
+    font-weight: bold !important;
+    font-size: 14px !important;
+    line-height: 18px !important;
+    letter-spacing: 0.03em !important;
+
+    color: #000000;
+}
+
+.first_name_textfield{
+    position: absolute;
+    top:260px;
+    left:720px;
+    width: 185px;
+    height: 48px;
+
+    font-family: Roboto Slab !important;
+    font-style: normal !important;
+    font-weight: bold !important;
+    font-size: 14px !important;
+    line-height: 18px !important;
+}
+
+.last_name_textfield{
+    position: absolute;
+    top:260px;
+    left:783px;
+    width: 185px;
+    height: 48px;
+
+    font-family: Roboto Slab !important;
+    font-style: normal !important;
+    font-weight: bold !important;
+    font-size: 14px !important;
+    line-height: 18px !important;
+}
+
+.email_text{
+    position: absolute;
+    width: 173px;
+    height: 18px;
+    left: 723px;
+    top: 330px;
+
+    font-family: Roboto Slab !important;
+    font-style: normal !important;
+    font-weight: bold !important;
+    font-size: 14px !important;
+    line-height: 18px !important;
+    letter-spacing: 0.03em !important;
+
+    color: #000000;
+}
+
+.email_textfield{
+    position: absolute;
+    top:310px;
+    left:720px;
+    width: 435px;
+    height: 48px;
+
+    font-family: Roboto Slab !important;
+    font-style: normal !important;
+    font-weight: bold !important;
+    font-size: 14px !important;
+    line-height: 18px !important;
+}
+
+.password_text{
+    position: absolute;
+    width: 173px;
+    height: 18px;
+    left: 723px;
+    top: 430px;
+
+    font-family: Roboto Slab !important;
+    font-style: normal !important;
+    font-weight: bold !important;
+    font-size: 14px !important;
+    line-height: 18px !important;
+    letter-spacing: 0.03em !important;
+
+    color: #000000;
+}
+
+.password_textfield{
+    position: absolute;
+    top:360px;
+    left:720px;
+    width: 435px;
+    height: 48px;
+
+    font-family: Roboto Slab !important;
+    font-style: normal !important;
+    font-weight: bold !important;
+    font-size: 14px !important;
+    line-height: 18px !important;
+}
+
+.create_account_button{
+    position: absolute;
+    top:390px;
+    left:720px;
+    background: #FF467E !important;
+    border-radius: 5px !important;
+    width: 185px !important;
+    height: 48px !important;
+    text-transform: none !important;
+    font-family: Roboto Slab !important;
+    font-style: normal !important;
+    font-weight: bold !important;
+    font-size: 14px !important;
+    line-height: 18px !important;
+}
+
+.policy_text{
+    position: absolute;
+    width: 360px;
+    height: 36px;
+    left: 730px;
+    top: 660px;
+
+    font-family: Roboto Slab !important;
+    font-style: normal !important;
+    font-weight: bold !important;
+    font-size: 14px !important;
+    line-height: 18px !important;
+
+    color: #878888 !important;
+}
+
+.policy_text_blue{
+    color:#3F96D4;
+}
